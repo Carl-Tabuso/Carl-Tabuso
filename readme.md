@@ -6,7 +6,9 @@ Currently learning and developing stuff using Laravel.
 
 #### Languages and frameworks interested in
 
-- Ruby on Rails
 - Go
-- React
+- Ruby
+- C#
+- Ruby on Rails
+- ASP.NET
 - Vue
