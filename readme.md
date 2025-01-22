@@ -1,4 +1,4 @@
-Name is Carl Tabuso, a senior student at PUP Santa Rosa. Had a little background and basic knowledge on low-level languages such as C and C++ in high school, not clever enough for them (wtf you mean i have to manage memory allocation). At the same time during SHS, was introduced to various programming paradigmgs: procedural, oop, functional, dysfunctional, whatever. Was also exposed a little bit to java netbeans and visual basic — oop.
+Name is Carl Tabuso, a senior student at PUP Santa Rosa. Had a little background and basic knowledge on low-level languages such as C and C++ in high school. At the same time during SHS, was introduced to various programming paradigmgs: procedural, oop, functional, dysfunctional, whatever. Was also exposed a little bit to java netbeans and visual basic — oop.
 
 Discovered web dev and presently aims to continuously upskill in it — backend development in particular. This is my last term in college (i hope so), and one of the requirements for completion is a capstone project, or what they say, the culmination of your love and hate relationship with programming.
 
