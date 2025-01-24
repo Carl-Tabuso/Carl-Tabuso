@@ -12,3 +12,5 @@ Under-development capstone project 👉 a [human resource web-app](https://githu
 - Ruby on Rails
 - ASP.NET
 - Vue
+- Spring Boot
+- Django
